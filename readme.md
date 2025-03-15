@@ -257,4 +257,4 @@ All endpoints return similar error responses:
 - All dates should be provided in YYYY-MM-DD format
 - Revenue calculations include both product revenue and shipping costs
 - Results are sorted by total revenue in descending order (highest first)
-- The `/api/revenue/by-product` endpoint can accept an optional `limit` parameter to restrict the number of results
+- The `/api/revenue/by-product`
